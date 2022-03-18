@@ -1,4 +1,12 @@
-# Project Documentation
+# MemeCraft Project Documentation
+
+**Authors**: Brady Camp, Harvey Francois, Jeffrey Jenkins, Micha Davis, Michael Campbell
+
+**Version**: 1.4.0
+
+[**Front-end Repo**](https://github.com/jeffreyjtech/meme-craft-frontend)
+
+[**Back-end Repo**](https://github.com/jeffreyjtech/meme-craft-backend)
 
 ## Documents 
 1. [Team Agreement](team-agreement.md)
